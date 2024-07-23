@@ -11,4 +11,5 @@ public class operadores {
     char sexo = 'M';
     boolean doadorOrgao = false;
 
+    //Aritméticos: + (adição), - (subtração), * (multiplicação) e / (divisão);
 }
